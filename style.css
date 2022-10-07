@@ -55,7 +55,14 @@ article {
     background-color: #78cdc5;
     grid-column: 1 / span 3;
     grid-row: 2/4;
+    padding:40px;
+
     
+}
+
+article h3 {
+    text-align: center;
+    padding-top: 30px;
 }
 img {
     width:800px;
