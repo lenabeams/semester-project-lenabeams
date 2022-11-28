@@ -3,6 +3,13 @@ body {
 }
 
 
+nav {
+    background-color: #628c67;
+}
+.navbar-text {
+    font-family:monospace;
+    font-size: large;
+}
 
 h4 h3 {
     color:#78cdc5
@@ -116,7 +123,7 @@ img {
 
 
 a {
-    color:#6c757d;
+    color:#ffffff;
 }
 
 a:hover {
