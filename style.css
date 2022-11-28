@@ -21,8 +21,18 @@ h2 {
 }
 .call2act
     {
-            float: left
+            float: left;
+            padding: 20px;
+            
         }
+
+        .c2a-buttons {
+            font-size: large;
+            
+        }
+                .c2a-buttons:hover {
+                    color: #fec503;
+                }
 
 
 .grid-container {
@@ -143,39 +153,9 @@ footer {
 
 
 
-.footer-column {
-    text-align: center;
-    
-}
 
-    ul {
-        display: inline-block;
-}
+ 
 
-ul.social-buttons {
-    margin-bottom: 0;
-}
-
-ul.social-buttons li a:active,
-ul.social-buttons li a:focus,
-ul.social-buttons li a:hover {
-    background-color: #fec503;
-}
-
-ul.social-buttons li a {
-    font-size: 20px;
-    line-height: 40px;
-    display: block;
-    width: 40px;
-    height: 40px;
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    transition: all 0.3s;
-    color: #fff;
-    border-radius: 100%;
-    outline: 0;
-   background-color: #212529;
-}
 
 footer .quick-links {
     font-size: 90%;
