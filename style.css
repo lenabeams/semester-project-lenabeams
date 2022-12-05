@@ -11,6 +11,15 @@ nav {
     font-size: large;
 }
 
+
+.jumbotron {
+    background-image: url("/images/jumboimg.jpg");
+    background-size: cover;
+   
+}
+
+
+
 h4 h3 {
     color:#78cdc5
 }
